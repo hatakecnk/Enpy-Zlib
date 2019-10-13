@@ -5,7 +5,7 @@ Encrypt your python code with use zlib
 
 ![alt text](https://img.shields.io/badge/Coded-xNot_Found-blue.svg)
 
-![alt text](https://img.shields.io/badge/Size-1.14MB-yellow.svg)
+![alt text](https://img.shields.io/badge/Size-736KB-yellow.svg)
 
 ![alt text](https://img.shields.io/badge/Python-2.7-green.svg)
 
